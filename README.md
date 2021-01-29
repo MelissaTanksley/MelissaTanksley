@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Melissa! I am a Full Stack Web Developer | UX Designer. I am passionate about Front End development and User Experience Research. My goal is to improve the computerized charting systems in hospitals and create video games with my autstic son.
+### Hi there 👋 I'm Melissa! I am a Full Stack Web Developer | UX Designer. I am passionate about Front End development and User Experience Research. My goal is to improve the computerized charting systems in hospitals and create video games with my autistic son.
 
 
 - 🔭 I’m currently working on ...
