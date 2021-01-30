@@ -2,12 +2,12 @@
 
 
 - 🔭 I’m currently working on ...
-* WEBJr - Currently collaborating remotely with 12 other engineers. I am the UX Designer and Front End Developer for a website that helps junior devlopers seek jobs. 
-* Family Promise - Currently collaborating with 10 other engineers to create a computerized intake form for a homeless shelter. I created wireframes and intake forms.
+* WEBJr - Collaborating remotely with 12 other engineers. I am the UX Designer and Front End Developer for a website that helps junior devlopers seek jobs. 
+* Family Promise - Collaborating with 10 other engineers to create a computerized intake form for a homeless shelter. I created wireframes and intake forms.
 
 - 🌱 I’m currently learning ...
-* I am currently freshening up my skills in Python using a Udemy course
-* I am currently taking UX Design classes through https://www.interaction-design.org/
+* and freshening up my skills in Python using a Udemy Complete Bootcamp course
+* taking UX Design classes through https://www.interaction-design.org/
 
 - 👯 I’m looking to collaborate on ...
 * Developing video games of all sorts
