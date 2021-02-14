@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ...
 * WEBJr - Collaborating remotely with 12 other engineers. I am the UX Designer and Front End Developer for a website that helps junior devlopers seek jobs. 
-* Family Promise - Collaborating with 10 other engineers to create a computerized intake form for a homeless shelter. I created wireframes and intake forms.
+* Family Promise of Spokane - Remotely collaborating with 6 other engineers to add features (Facebook, DocuSign, Dark Mode) to their application
 
 - 🌱 I’m currently learning ...
 * and freshening up my skills in Python using a Udemy Complete Bootcamp course
@@ -12,5 +12,5 @@
 - 👯 I’m looking to collaborate on ...
 * Developing video games of all sorts
 
-- 📫 How to reach me: ... fullstack.melissa@gmail.com | https://youthful-edison-454cb3.netlify.app/
+- 📫 How to reach me: ... fullstack.melissa@gmail.com | www.melissatanksley.com
 
