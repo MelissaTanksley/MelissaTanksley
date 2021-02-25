@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ...
 * and freshening up my skills in Python using a Udemy Complete Bootcamp course
-* taking UX Design classes through https://www.interaction-design.org/
+* UX Design through https://www.interaction-design.org/ to freshen up my skills. 
 
 - 👯 I’m looking to collaborate on ...
 * Developing video games of all sorts
