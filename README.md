@@ -2,12 +2,12 @@
 
 
 - 🔭 I’m currently working on ...
-* WEBJr - Collaborating remotely with 12 other engineers. I am the UX Designer and Front End Developer for a website that helps junior devlopers seek jobs. 
-* Family Promise of Spokane - Remotely collaborating with 6 other engineers to add features (Facebook, DocuSign, Dark Mode) to their application
+* WEBJr - Collaborating remotely with 12 other engineers. I am the UX Designer and Front End Developer for a website that helps junior devlopers seek jobs. I have been using HTML, CSS, ReactJS, Figma, and Grommet for design styling. 
+* Family Promise of Spokane - Remotely collaborating with 6 other engineers to add features (Facebook, DocuSign, Dark Mode) to their application. I have been creating the Executive Director Dashboard using HTML, CSS, ReactJS, Whimsical, and Ant Design for styling.  
 
 - 🌱 I’m currently learning ...
-* and freshening up my skills in Python using a Udemy Complete Bootcamp course
-* UX Design through https://www.interaction-design.org/ to freshen up my skills. 
+* Python using a Udemy Complete Bootcamp course to help strengthen my skills.
+* UX Design through https://www.interaction-design.org/ to freshen up on my skills. 
 
 - 👯 I’m looking to collaborate on ...
 * Developing video games of all sorts
