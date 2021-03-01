@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning ...
 * Python using a Udemy Complete Bootcamp course to help strengthen my skills.
 * UX Design through https://www.interaction-design.org/ to freshen up on my skills. 
+* Ethical Hacking course through Udemy.
 
 - 👯 I’m looking to collaborate on ...
 * Developing video games of all sorts
