@@ -15,7 +15,7 @@
 * Developing video games of all sorts
 * Computerized charting systems for hospitals
 
-- Past Projects ...
+- 👯 Past Projects ...
 * Family Promise of Spokane - Remotely collaborating with 6 other engineers to add features (Facebook, DocuSign, Dark Mode) to their application. I have been creating the Executive Director Dashboard using HTML, CSS, ReactJS, Whimsical, and Ant Design for styling. We integrated a Facebook widget and DocuSign.
 * Water My Plants App
 
