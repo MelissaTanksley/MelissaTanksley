@@ -17,7 +17,7 @@
 
 - 👯 Past Projects ...
 * Family Promise of Spokane - Remotely collaborating with 6 other engineers to add features (Facebook, DocuSign, Dark Mode) to their application. I have been creating the Executive Director Dashboard using HTML, CSS, ReactJS, Whimsical, and Ant Design for styling. We integrated a Facebook widget and DocuSign.
-* Water My Plants App
+* Water My Plants App - Front-End UI for marketing pages, ReactJS and Redux for Sign In and Sign Up forms, NodeJS for Back End API. 
 
 - 📫 How to reach me: ... fullstack.melissa@gmail.com | www.melissatanksley.com
 
